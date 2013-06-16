@@ -13,6 +13,7 @@ open http://localhost:8080
 
 ## TODO
 
+* Add configuration file
 * Use DB instead of text files.
 * Add user login and register handler
 * Use session for logged-in user
